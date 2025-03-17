@@ -1,0 +1,32 @@
+.index-body, .cookies-body, .tacos-body, .paella-body{
+    background-color: blanchedalmond;
+}
+
+.index-body {
+    color: black;
+}
+.cookies-body {
+    color:black;
+}
+
+.tacos-body {
+    color:green
+}
+
+.paella-body {
+    color:red
+}
+h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.cookies, .tacos, .paella {
+    color: rgb(4, 96, 92);
+    font-size: 28px;
+    font-weight: bold;
+}
+
+
